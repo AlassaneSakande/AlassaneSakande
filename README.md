@@ -30,17 +30,29 @@
   </a>
 </p>
 
-👀 I’m interested
+## 👀About me 
+
+I am an Associate in Networking and Telecommunications and a self leaner in Deep Learning/Computer Vision. I am fascinated by how AI impact the Tech & Automotive Industries.
+I enjoy working on new technologies, especially through newly research papers that just come out anf showcase what used to be.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlassaneSakande&show_icons=true&theme=radical)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlassaneSakande&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+## Here are my metrics about languages I used in my projects on github
+
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlassaneSakande&layout=compact&theme=blue-green)
 
-- 🌱 I’m currently learning ML , DL, NLP, Computer Vision
-- 💞️ I’m looking to collaborate on some ml projects 
-- 📫 How to reach me alassanesakande.as@gmail.com
+## But not limited to this I'm also skilled in:
+<p align="center">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="c" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" alt="matlab" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" alt="jupyter-notebook" height="40" style="vertical-align:top; margin:4px">
+</p>
+ 
+## 📫 How to reach me :
+alassanesakande.as@gmail.com
 
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
