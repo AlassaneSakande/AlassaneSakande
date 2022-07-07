@@ -29,10 +29,22 @@
     <img alt="Twitter followers" src="https://img.shields.io/badge/followers-1-blue?color=orange&logo=twitter">
   </a>
 </p>
-- 👀 I’m interested in ML and DL
+
+👀 I’m interested
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlassaneSakande&show_icons=true&theme=radical)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlassaneSakande&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlassaneSakande&layout=compact&theme=blue-green)
+
 - 🌱 I’m currently learning ML , DL, NLP, Computer Vision
 - 💞️ I’m looking to collaborate on some ml projects 
 - 📫 How to reach me alassanesakande.as@gmail.com
+
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 
 <!---
 AlassaneSakande/AlassaneSakande is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
