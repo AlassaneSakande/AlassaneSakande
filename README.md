@@ -206,8 +206,25 @@ Yeap it is, listening to music is the best distraction to me, Messages pushed by
 Lastly Clash of Clans is my second enjoyment tool. Still playing for years, but never got sick of it.
 
 
+## SUMMARY
 
-## 😂 Here is a random joke that'll make you laugh!
+Thank you for reading until here, above are my projects and a little introduction that I have and uploaded on GitHub. Being passionate in Computer Vision I will still be learning new tools and creating projects especially by implementing novel State-Of-The-Art research papers. 
+
+For more informations about me or my projects feel free to reach me out
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>: alassanesakande.as@gmail.com
+<p align="left">
+ <a href="https://www.linkedin.com/in/alassane-sakande-b856891a0/">
+    <img alt="Linkedin followers" src="https://img.shields.io/badge/followers-26-blue?color=blue&logo=linkedin">
+  </a>
+  <a href="https://discord.com/channels/994654623447122040/994654623447122043">
+    <img alt="Discord" src="https://img.shields.io/badge/discord-15+-green?color=green&logo=hackerrank">
+  </a>
+   <a href="https://twitter.com/home">
+    <img alt="Twitter followers" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+  </p>
+
+## 😂 Here is a random joke that'll make you laugh, can't let you go without at least a smile !
 ![Jokes Card](https://readme-jokes.vercel.app/api) 
 
 
