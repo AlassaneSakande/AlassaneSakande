@@ -43,6 +43,17 @@
 I am an Associate in Networking and Telecommunications and a self leaner in Deep Learning/Computer Vision. I am fascinated by how AI impact the Tech & Automotive Industries.
 I enjoy working on new technologies, especially through newly research papers that just come out and showcase what used to be.
 
+## As a self learner most of my courses excluding those related to my major has been taken on :
+
+<p align="center">
+<img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white"/>
+<img src="https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=#5FCFEE"/>
+<img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F"/>
+</p>
+
+## My Github stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlassaneSakande&show_icons=true&theme=radical)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlassaneSakande&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
