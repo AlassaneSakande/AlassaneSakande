@@ -43,6 +43,8 @@
 I am an Associate in Networking and Telecommunications and a self leaner in Deep Learning/Computer Vision. I am fascinated by how AI impact the Tech & Automotive Industries.
 I enjoy working on new technologies, especially through newly research papers that just come out and showcase what used to be.
 
+![code-coding](https://user-images.githubusercontent.com/84173235/178000006-7bf1b7ff-5926-4fce-8305-119b2ff0258e.gif)
+
 ## As a self learner most of my courses excluding those related to my major has been taken on :
 
 <p align="center">
