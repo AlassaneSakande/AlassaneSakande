@@ -114,10 +114,6 @@ Below are some of my projects I've worked on, tasks related to Computer Vision, 
 
 ![intern](https://user-images.githubusercontent.com/84173235/177986010-4f08e43d-cafc-4314-b2aa-6e54423a7511.jpeg)
 
-[**Number in Image prediction (MNIST dataset)**]
-
-![mnist](https://user-images.githubusercontent.com/84173235/177978540-add97a1b-1ca3-4149-adac-b00cb2505e42.jpeg)
-
 [**Melbourne House Pricing Prediction (ML project)**](https://github.com/AlassaneSakande/Melbourne-House-Price-Prediction)
 
 ![melb](https://user-images.githubusercontent.com/84173235/177981587-3214c4a0-67a6-43d5-860f-5255b5ad96f9.jpeg)
@@ -131,8 +127,7 @@ Below are some of my projects I've worked on, tasks related to Computer Vision, 
 ![convnet](https://user-images.githubusercontent.com/84173235/177984875-2a10285a-30f4-4e36-ac73-2f83ea73ac0a.png)
 
 [**Sign Language detection**]
-
-![mnisffashion](https://user-images.githubusercontent.com/84173235/177985074-b459a24c-2173-4298-b3c5-959c619981b2.png)
+![sign](https://user-images.githubusercontent.com/84173235/178035942-8ff70ea6-8bc0-4473-ba4b-118916272418.jpeg)
 
 [**Edge detection using Octave (Computer Vision)**]
 
