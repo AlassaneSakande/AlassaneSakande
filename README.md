@@ -122,7 +122,7 @@ Below are some of my projects I've worked on, tasks related to Computer Vision, 
 
 ![melb](https://user-images.githubusercontent.com/84173235/177981587-3214c4a0-67a6-43d5-860f-5255b5ad96f9.jpeg)
 
-[**House Versus Human Detection**]
+[**Horse Versus Human Detection**](https://github.com/AlassaneSakande/Horse-vs-Human)
 
 ![horseVsHuman](https://user-images.githubusercontent.com/84173235/177984461-498b76f5-48eb-4a61-a26f-9f7c21e3f4e7.png)
 
@@ -130,7 +130,7 @@ Below are some of my projects I've worked on, tasks related to Computer Vision, 
 
 ![convnet](https://user-images.githubusercontent.com/84173235/177984875-2a10285a-30f4-4e36-ac73-2f83ea73ac0a.png)
 
-[**Fashion Image detection (MNIST-Fashion)**]
+[**Sign Language detection**]
 
 ![mnisffashion](https://user-images.githubusercontent.com/84173235/177985074-b459a24c-2173-4298-b3c5-959c619981b2.png)
 
