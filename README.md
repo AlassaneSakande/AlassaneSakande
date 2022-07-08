@@ -1,6 +1,6 @@
 ![image(1)](https://user-images.githubusercontent.com/84173235/177864958-04ca5de0-9918-42ae-b4db-cf48d834e6a7.png)
 
-## 👋 Hey, I’m Alassane SAKANDE
+👋 Hey, I’m Alassane SAKANDE
 
 <p align="left">
   <a href="https://github.com/AlassaneSakande/AlassaneSakande">
@@ -102,6 +102,44 @@ I am also comfortable working on :
 
 ## 📫 How to reach out
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>: alassanesakande.as@gmail.com
+
+## My Portfolio Overview
+Below are some of my projects I've worked on, tasks related to Computer Vision, Deep Learning and Machine Learning
+
+![2b50](https://user-images.githubusercontent.com/84173235/177977728-66fec2f2-8320-4c91-8e0e-71dbf37a7d28.png) **ML/DL/CV projects**
+
+[**School Internship Management System (Just a C program)**](https://github.com/AlassaneSakande/School-Internship-Management-sytem)
+
+![intern](https://user-images.githubusercontent.com/84173235/177986010-4f08e43d-cafc-4314-b2aa-6e54423a7511.jpeg)
+
+[**Number in Image prediction (MNIST dataset)**]
+
+![mnist](https://user-images.githubusercontent.com/84173235/177978540-add97a1b-1ca3-4149-adac-b00cb2505e42.jpeg)
+
+[**Melbourne House Pricing Prediction (ML project)**](https://github.com/AlassaneSakande/Melbourne-House-Price-Prediction)
+
+![melb](https://user-images.githubusercontent.com/84173235/177981587-3214c4a0-67a6-43d5-860f-5255b5ad96f9.jpeg)
+
+[**House Versus Human Detection**]
+
+![horseVsHuman](https://user-images.githubusercontent.com/84173235/177984461-498b76f5-48eb-4a61-a26f-9f7c21e3f4e7.png)
+
+[**Implementation of the paper "A ConvNet of the 2020s"**](https://github.com/AlassaneSakande/A-ConvNet-of-2020s)
+
+![convnet](https://user-images.githubusercontent.com/84173235/177984875-2a10285a-30f4-4e36-ac73-2f83ea73ac0a.png)
+
+[**Fashion Image detection (MNIST-Fashion)**]
+
+![mnisffashion](https://user-images.githubusercontent.com/84173235/177985074-b459a24c-2173-4298-b3c5-959c619981b2.png)
+
+[**Edge detection using Octave (Computer Vision)**]
+
+![edgedetection](https://user-images.githubusercontent.com/84173235/177985209-ce5b74a5-b185-4ca1-ab93-ce2b561f0e18.jpg)
+
+[**Camera Calibrating using Octave (Computer Vision)**]
+
+![camera_calibration_focal_point](https://user-images.githubusercontent.com/84173235/177985298-a5728c47-44a9-4053-958f-8e854d7054e0.png)
+
 
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
