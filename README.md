@@ -177,6 +177,31 @@ Below are some of my projects I've worked on, tasks related to Computer Vision, 
 [**Statistics and probality**](https://www.khanacademy.org/math/statistics-probability/analyzing-categorical-data)
 
 
+## Soft Skills
+
+**Passionate about the AI industry**
+
+**Open to critisism**
+
+**Self learner**
+
+**Love for searching**
+
+**Politeness**
+
+**Able to work properly in a team**
+
+**Great Communucation skills**
+
+**Fluent english**
+
+## You wonder how does my free time looks like 😂
+
+![giphy](https://user-images.githubusercontent.com/84173235/177993743-e76fee92-0570-477d-8fb4-f8751bac36ad.gif)
+
+
+
+
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api) 
 
