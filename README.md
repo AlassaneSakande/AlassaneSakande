@@ -127,6 +127,7 @@ Below are some of my projects I've worked on, tasks related to Computer Vision, 
 ![convnet](https://user-images.githubusercontent.com/84173235/177984875-2a10285a-30f4-4e36-ac73-2f83ea73ac0a.png)
 
 [**Sign Language detection**]
+
 ![sign](https://user-images.githubusercontent.com/84173235/178035942-8ff70ea6-8bc0-4473-ba4b-118916272418.jpeg)
 
 [**Edge detection using Octave (Computer Vision)**]
