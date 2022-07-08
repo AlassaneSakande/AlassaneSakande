@@ -141,8 +141,44 @@ Below are some of my projects I've worked on, tasks related to Computer Vision, 
 ![camera_calibration_focal_point](https://user-images.githubusercontent.com/84173235/177985298-a5728c47-44a9-4053-958f-8e854d7054e0.png)
 
 
+## My Certifications
+
+[**Convolutional Neural Networks in tensorflow**](https://www.coursera.org/verify/M35KHS68D3TV)<img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white"/>
+
+[**Introduction to Tensorflow for Artificial Intelligence, Machine Learning, and Deep Learning**](https://www.coursera.org/verify/YMJH4WC8TVF2)<img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white"/>
+
+[**Data Visualization**](https://www.kaggle.com/learn/certification/AlassaneSakande/data-visualization)<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
+
+[**Intermediate Machine Learning**](https://www.kaggle.com/learn/certification/alassanesakande/intermediate-machine-learning)<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
+
+[**Pandas**](https://www.kaggle.com/learn/certification/alassanesakande/pandas)<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
+
+[**Python**](https://www.kaggle.com/learn/certification/alassanesakande/python)<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
+
+
+### Courses enrolled
+
+[**Self-Driving Car fundamentals: Featuring Appolo**](https://learn.udacity.com/courses/ud0419)
+
+[**Machine learning**](https://learn.udacity.com/courses/ud262)
+
+[**Introduction to Computer Vision**](https://learn.udacity.com/courses/ud810)
+
+[**Intro to Deep Learning with PyTorch**](https://learn.udacity.com/courses/ud188)
+
+[**Neural Network & Deep Learning**](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome)
+
+[**Fundamentals of Digital Video and Image processing**](https://www.coursera.org/learn/digital/home)
+
+[**Natural Language Processing in Tensorflow**](https://www.coursera.org/learn/natural-language-processing-tensorflow/home)
+
+[**Linear Algebra**](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces)
+
+[**Statistics and probality**](https://www.khanacademy.org/math/statistics-probability/analyzing-categorical-data)
+
+
 ## 😂 Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)
+![Jokes Card](https://readme-jokes.vercel.app/api) 
 
 
 <!---
