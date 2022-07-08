@@ -199,6 +199,11 @@ Below are some of my projects I've worked on, tasks related to Computer Vision, 
 
 ![giphy](https://user-images.githubusercontent.com/84173235/177993743-e76fee92-0570-477d-8fb4-f8751bac36ad.gif)
 
+Yeap it is, listening to music is the best distraction to me, Messages pushed by amazing Hip Hop artists empower me and help me growing. You'll be stunned 😂 because I'm listening to 90's songs.
+
+![coc](https://user-images.githubusercontent.com/84173235/177994809-6d05bda0-b2e7-4458-ab7f-ed05a98942eb.gif)
+
+Lastly Clash of Clans is my second enjoyment tool. Still playing for years, but never got sick of it.
 
 
 
