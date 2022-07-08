@@ -1,6 +1,6 @@
 ![image(1)](https://user-images.githubusercontent.com/84173235/177864958-04ca5de0-9918-42ae-b4db-cf48d834e6a7.png)
 
-👋 Hey, I’m Alassane SAKANDE
+## 👋 Hey, I’m Alassane SAKANDE
 
 <p align="left">
   <a href="https://github.com/AlassaneSakande/AlassaneSakande">
