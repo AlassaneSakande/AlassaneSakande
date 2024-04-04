@@ -1,7 +1,7 @@
 ## 👀About me 
 ........
 ## 📫 How to reach out
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>: alassanesakande.as@gmail.com
+alassanesakande.as@gmail.com
 
 ## My Portfolio Overview
 [**School Internship Management System (Just a C program)**](https://github.com/AlassaneSakande/School-Internship-Management-sytem)
@@ -11,10 +11,6 @@
 [**Horse Versus Human Detection**](https://github.com/AlassaneSakande/Horse-vs-Human)
 
 [**Implementation of the paper "A ConvNet of the 2020s"**](https://github.com/AlassaneSakande/A-ConvNet-of-2020s)
-
-## SUMMARY
-Feel free to reach me out
-alassanesakande.as@gmail.com
 
 ## 😂 Here is a random joke that'll make you laugh, can't let you go without at least a smile !
 ![Jokes Card](https://readme-jokes.vercel.app/api) 
